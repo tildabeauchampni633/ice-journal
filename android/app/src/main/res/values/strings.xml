@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ice Journal</string>
+
+    <string name="splash_title">ICE JOURNAL</string>
+    <string name="splash_subtitle">FIELD NOTES FROM THE FROZEN LAKES</string>
+    <string name="splash_progress">PREPARING THE TRIP</string>
+
+    <string name="cd_logo">Ice Journal emblem</string>
+    <string name="cd_lantern">Storm lantern on the ice</string>
+    <string name="cd_lure">Jigging spoon lure</string>
+    <string name="cd_home">Lake cabin</string>
+    <string name="cd_pause">Pause the trip</string>
+    <string name="cd_fish">Fish holding under the ice</string>
+
+    <string name="menu_title">ICE JOURNAL</string>
+    <string name="menu_tagline">THREE CASTS. ONE LAKE. ONE JOURNAL.</string>
+    <string name="menu_lake_label">LAKE</string>
+    <string name="menu_lure_label">LURE</string>
+    <string name="menu_hint">ECHO FIRST - THEN MATCH THE DEPTH</string>
+    <string name="cta_play">PLAY</string>
+    <string name="menu_journal">FIELD JOURNAL</string>
+    <string name="menu_challenges">CHALLENGES</string>
+
+    <string name="stat_weather">WEATHER</string>
+    <string name="stat_light">LIGHT</string>
+    <string name="stat_depth">DEPTH</string>
+    <string name="stat_echo">ECHO</string>
+    <string name="stat_attract">ATTRACT</string>
+    <string name="stat_points">POINTS</string>
+    <string name="stat_best">BEST</string>
+    <string name="stat_species">SPECIES</string>
+
+    <string name="weather_clear">CLEAR</string>
+    <string name="weather_light_snow">LIGHT SNOW</string>
+    <string name="weather_overcast">OVERCAST</string>
+    <string name="light_dawn">DAWN</string>
+    <string name="light_blue_hour">BLUE HOUR</string>
+    <string name="light_dusk">DUSK</string>
+
+    <string name="lake_still_hollow">STILL HOLLOW</string>
+    <string name="lake_birch_narrows">BIRCH NARROWS</string>
+    <string name="lake_frostmere_deep">FROSTMERE DEEP</string>
+
+    <string name="lure_copper_spoon">COPPER SPOON</string>
+    <string name="lure_glow_jig">GLOW JIG</string>
+    <string name="lure_minnow_rig">MINNOW RIG</string>
+    <string name="lure_trade_copper">BALANCED WINDOW. STEADY LINE.</string>
+    <string name="lure_trade_glow">LONGER BITE WINDOW. NARROW TENSION BAND.</string>
+    <string name="lure_trade_minnow">SHORT WINDOW. WIDE BAND. MORE POINTS.</string>
+
+    <string name="species_perch">PERCH</string>
+    <string name="species_char">ARCTIC CHAR</string>
+    <string name="species_pike">PIKE</string>
+    <string name="note_perch">Holds in loose schools over weed edges, bites best in flat light.</string>
+    <string name="note_char">Patrols the mid column at dawn and dusk, follows a slow lift.</string>
+    <string name="note_pike">Sits still near the deep shelf, takes a lure that pauses.</string>
+
+    <string name="game_cast_of">CAST %1$d OF %2$d</string>
+    <string name="game_drop">DROP LINE</string>
+    <string name="game_jig">TAP TO JIG</string>
+    <string name="game_hook">TAP NOW</string>
+    <string name="game_reel">TAP TO REEL</string>
+    <string name="game_next_cast">DROP AGAIN</string>
+    <string name="game_report">GO TO REPORT</string>
+    <string name="game_echo">ECHO PULSE</string>
+    <string name="game_pack_up">PACK UP</string>
+
+    <string name="hint_ready">SEND AN ECHO AND READ THE COLUMN</string>
+    <string name="hint_jig">MATCH THE LURE TO THE ECHO BAND</string>
+    <string name="hint_bite">SET THE HOOK NOW</string>
+    <string name="hint_reel">KEEP THE TENSION IN THE GREEN</string>
+    <string name="hint_resolved">THE LAKE IS QUIET NOW</string>
+
+    <string name="echo_strong">STRONG</string>
+    <string name="echo_faint">FAINT</string>
+    <string name="echo_none">NO READING</string>
+
+    <string name="banner_landed">LANDED</string>
+    <string name="banner_snapped">LINE SNAPPED</string>
+    <string name="banner_missed">MISSED THE HOOK</string>
+    <string name="banner_left">IT MOVED OFF</string>
+
+    <string name="depth_value">%1$.1f M</string>
+    <string name="weight_value">%1$.1f KG</string>
+    <string name="percent_value">%1$d%%</string>
+    <string name="points_value">%1$d PTS</string>
+    <string name="species_count">%1$d / %2$d</string>
+
+    <string name="state_tension">TENSION %1$d OF %2$d</string>
+    <string name="state_column">DEPTH %1$.1f METRES, ECHO %2$s</string>
+    <string name="state_points">TRIP POINTS %1$d</string>
+    <string name="state_selected">SELECTED</string>
+    <string name="state_idle">NOT SELECTED</string>
+    <string name="state_locked">LOCKED</string>
+
+    <string name="result_title">TRIP COMPLETE</string>
+    <string name="result_title_early">TRIP ENDED EARLY</string>
+    <string name="result_caught">CAUGHT %1$d OF %2$d CASTS</string>
+    <string name="result_no_fish">NO FISH LANDED</string>
+    <string name="result_taken_at">TAKEN AT %1$.1f M - %2$s</string>
+    <string name="result_new_species">NEW SPECIES LOGGED: %1$s</string>
+    <string name="result_new_best">NEW PERSONAL BEST: %1$d PTS</string>
+    <string name="result_hint">ECHO BANDS SHIFT WITH THE WEATHER</string>
+    <string name="result_again">CAST AGAIN</string>
+    <string name="result_menu">MENU</string>
+
+    <string name="journal_title">FIELD JOURNAL</string>
+    <string name="journal_not_logged">NOT YET LOGGED</string>
+    <string name="journal_best">BEST %1$.1f KG</string>
+
+    <string name="challenges_title">CHALLENGES</string>
+    <string name="challenge_deep_title">DEEP WATER</string>
+    <string name="challenge_deep_desc">Land a fish deeper than ten metres.</string>
+    <string name="challenge_steady_title">STEADY HANDS</string>
+    <string name="challenge_steady_desc">Finish a trip without snapping the line.</string>
+    <string name="challenge_field_title">FIELD WORK</string>
+    <string name="challenge_field_desc">Log a species you have never caught before.</string>
+    <string name="challenge_done">DONE</string>
+    <string name="challenge_open">OPEN</string>
+
+    <string name="dialog_close">CLOSE</string>
+    <string name="pause_title">TRIP PAUSED</string>
+    <string name="pause_resume">RESUME</string>
+    <string name="pause_end">END TRIP</string>
+</resources>

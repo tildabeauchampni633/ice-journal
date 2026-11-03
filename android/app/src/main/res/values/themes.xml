@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.IceJournal" parent="android:Theme.Material.NoActionBar">
+        <item name="android:windowBackground">@drawable/ic_splash_window</item>
+        <item name="android:statusBarColor">#050F1A</item>
+        <item name="android:navigationBarColor">#050F1A</item>
+    </style>
+</resources>

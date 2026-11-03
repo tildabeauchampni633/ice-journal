@@ -1,0 +1,40 @@
+package com.Faxzoku9.Qozcud.presentation.game
+
+enum class CastPhase { READY, JIGGING, BITE, REELING, RESOLVED }
+
+data class GameUiState(
+    val lakeNameRes: Int = 0,
+    val castNumber: Int = 1,
+    val castsPerTrip: Int = 3,
+    val phase: CastPhase = CastPhase.READY,
+    val maxDepthM: Float = 12f,
+    val lureDepthM: Float = 0f,
+    val jigOffset: Boolean = false,
+    val fishDepthM: Float = 0f,
+    val fishDrawableRes: Int = 0,
+    val fishSpriteDp: Int = 48,
+    val fishIdentified: Boolean = false,
+    val fishVisible: Boolean = false,
+    val bandMinM: Float = 0f,
+    val bandMaxM: Float = 0f,
+    val echoRevealed: Boolean = false,
+    val echoStrong: Boolean = false,
+    val echoLabelRes: Int = 0,
+    val echoSweep: Float = 0f,
+    val attraction: Int = 0,
+    val tension: Int = 0,
+    val reelProgress: Int = 0,
+    val safeMin: Int = 30,
+    val safeMax: Int = 78,
+    val tensionMax: Int = 100,
+    val tripPoints: Int = 0,
+    val biteFlash: Boolean = false,
+    val landedLift: Float = 0f,
+    val lineAlpha: Float = 1f,
+    val bannerVisible: Boolean = false,
+    val bannerLabelRes: Int = 0,
+    val bannerPositive: Boolean = false,
+    val actionLabelRes: Int = 0,
+    val hintRes: Int = 0,
+    val pauseVisible: Boolean = false
+)
